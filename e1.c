@@ -16,6 +16,5 @@ void main()
       else
       {
            printf("negative");
-     }
-     getch();
+      }
 }
