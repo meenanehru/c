@@ -6,7 +6,7 @@ int main(void)
 	char s[10]="hello";
 	printf("enter the number");
 	scanf("%d",&n);
-	for(i=0;i<=n;i++)
+	for(i=1;i<=n;i++)
 	{
 		printf("%s",s);
 	}
