@@ -13,7 +13,7 @@ int main()
     }
     printf("k=");
     scanf("%d",&k);
-    printf("%d",n[k]);
+    printf("%d",n[k-1]);
 	return 0;
 }
 
